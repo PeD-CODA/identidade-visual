@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="137.50531"
+   height="146.23865"
+   viewBox="0 0 137.50531 146.23865"
+   sodipodi:docname="so_circulo_coda_negativa_2cores.svg"
+   inkscape:export-filename="so_circulo_coda_positiva_1cor.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,595.28 H 841.89 V 0 H 0 Z"
+         id="path14" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="coda_duas_cores_positiva"
+     transform="matrix(1.3333333,0,0,-1.3333333,-431.14814,467.39585)">
+    <g
+       id="g10"
+       inkscape:export-filename="so_circulo_coda_negativa_2cores.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g12"
+         clip-path="url(#clipPath16)">
+        <g
+           id="g18"
+           transform="translate(372.1602,295.0791)">
+          <path
+             d="m 0,0 c 0.271,0.15 0.504,0.32 0.504,0.631 0,0.299 -0.221,0.49 -0.481,0.623 l -30.16,16.533 c -3.047,-4.848 -4.802,-10.633 -4.802,-17.16 0,-6.26 1.605,-11.844 4.416,-16.559 z"
+             style="fill:#ff4d00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" />
+        </g>
+        <g
+           id="g22"
+           transform="translate(323.5391,320.9189)">
+          <path
+             d="m 0,0 18.484,-8.053 c 5.971,9.483 16.989,15.242 30.094,15.242 19.787,0 34.901,-13.078 34.901,-32.402 0,-19.32 -15.114,-32.402 -34.901,-32.402 -13.379,0 -24.599,6.002 -30.48,15.844 l -18.276,-8.29 c 8.666,-17.867 26.647,-29.99 48.756,-29.99 31.317,0 54.373,24.295 54.373,54.838 0,30.537 -23.056,54.841 -54.373,54.841 C 26.621,29.628 8.732,17.66 0,0"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path24"
+             sodipodi:nodetypes="ccsssccsssc" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
